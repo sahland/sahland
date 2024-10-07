@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="125" alt="Welcome Gif"/>
+  <a href="https://github.com/bitchofson" target="_blank">
+    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="125" alt="Welcome Gif"/>
+  </a>
   
   <div id="badges">
     <a href="https://t.me/SaHlands" target="_blank">
