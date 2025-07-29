@@ -1,8 +1,10 @@
+---
+
 <div id="header" align="center">
   <a href="https://github.com/sahland?tab=repositories" target="_blank">
-    <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=790b7611lwivqbussiagcgjem5gt4gjpydd6milhao6pnxdh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" alt="Welcome Gif"/>
+    <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="180" alt="Welcome Gif"/>
   </a>
-  
+
   <div id="badges">
     <a href="https://t.me/SaHlands" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -23,32 +25,31 @@
 
 ### About Me
 
-I am a Flutter Developer from Russia.
+I am a **Unity Developer** from Russia.
 
-- 🔭 I work on cross-platform development for macOS/iOS and Android.
-- 🌱 I enjoy learning new technologies and expanding my knowledge.
-- ⚡ I am passionate about mobile app development for iOS and Android.
-- 📫 How to reach me: endspinrx@mail.ru or endspinrxxx@gmail.com
+- 🎮 I develop games and tools using Unity, C#, and ShaderLab.
+- 🧠 I love writing modular architectures and solving complex technical challenges.
+- 🔧 I'm currently working on sandbox RPGs, editor tools, and stylized shaders.
+- 🧰 Strong skills in gameplay, UI systems, and custom editor extensions.
+- 📬 Contact: `endspinrx@mail.ru` or `endspinrxxx@gmail.com`
 
 ---
 
-### 🛠 &nbsp;Languages and Tools:
+### 🛠 &nbsp;Languages and Tools
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python (for tools)" alt="Python" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats:
+### 🔥 &nbsp;My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahland&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -63,5 +64,3 @@ I am a Flutter Developer from Russia.
 ![](https://github-profile-trophy.vercel.app/?username=sahland&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-
