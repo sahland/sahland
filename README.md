@@ -1,4 +1,4 @@
----
+<!-- no --- in the very beginning! -->
 
 <div id="header" align="center">
   <a href="https://github.com/sahland?tab=repositories" target="_blank">
@@ -21,7 +21,7 @@
   </a>
 </p>
 
----
+___
 
 ### 👋 About Me
 
@@ -34,7 +34,7 @@ Hi! I'm a passionate **Unity Developer** from Russia 🇷🇺.
 - ✍️ Always learning — AI systems, shaders, and performance optimization.
 - 📫 Reach me at: `endspinrx@mail.ru` or `endspinrxxx@gmail.com`
 
----
+___
 
 ### 🧰 Tech Stack
 
