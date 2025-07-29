@@ -2,10 +2,10 @@
 
 <div id="header" align="center">
   <a href="https://github.com/sahland?tab=repositories" target="_blank">
-    <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="180" alt="Welcome Gif"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="120" alt="Unity Logo"/>
   </a>
 
-  <div id="badges">
+  <div id="badges" style="margin-top: 10px;">
     <a href="https://t.me/SaHlands" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
@@ -23,19 +23,20 @@
 
 ---
 
-### About Me
+### 👋 About Me
 
-I am a **Unity Developer** from Russia.
+Hi! I'm a passionate **Unity Developer** from Russia 🇷🇺.
 
-- 🎮 I develop games and tools using Unity, C#, and ShaderLab.
-- 🧠 I love writing modular architectures and solving complex technical challenges.
-- 🔧 I'm currently working on sandbox RPGs, editor tools, and stylized shaders.
-- 🧰 Strong skills in gameplay, UI systems, and custom editor extensions.
-- 📬 Contact: `endspinrx@mail.ru` or `endspinrxxx@gmail.com`
+- 🎮 Building immersive games, tools, and stylized shaders.
+- 🧠 Love modular architecture, clean code, and writing editor extensions.
+- 🔧 Currently working on sandbox RPGs, in-game systems, and game tooling.
+- 🛠 Exploring procedural generation, URP, Netcode and DOTS.
+- ✍️ Always learning — AI systems, shaders, and performance optimization.
+- 📫 Reach me at: `endspinrx@mail.ru` or `endspinrxxx@gmail.com`
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
+### 🧰 Tech Stack
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -49,7 +50,18 @@ I am a **Unity Developer** from Russia.
 
 ---
 
-### 🔥 &nbsp;My Stats
+### 🎯 Focus Areas
+
+- 🎮 **Gameplay Programming**
+- 🧰 **Custom Editor Tools**
+- ✨ **Stylized Visuals & ShaderLab**
+- 🗺 **Open World / Procedural Generation**
+- 🌐 **Netcode & Multiplayer Logic**
+- 📦 **Modular Systems & Architecture**
+
+---
+
+### 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahland&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -59,8 +71,10 @@ I am a **Unity Developer** from Russia.
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=sahland&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sahland&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+
+_Thanks for reading! Let’s build something awesome in Unity._ 🚀
