@@ -25,7 +25,7 @@ ___
 
 ### 👋 About Me
 
-Hi! I'm a passionate **Unity Developer** from Russia 🇷🇺.
+Hi! I'm a **Middle Unity Developer** from Russia 🇷🇺.
 
 - 🎮 Building immersive games, tools, and stylized shaders.
 - 🧠 Love modular architecture, clean code, and writing editor extensions.
