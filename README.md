@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FE428E&center=true&vCenter=true&width=620&lines=Middle+Unity+Developer;Game+Tools%2C+Shaders+%26+Architecture;Open-source+author+on+pub.dev" alt="Typing SVG"/>
 
   <div id="badges" style="margin-top: 10px;">
-    <a href="https://t.me/SaHlands" target="_blank">
+    <a href="https://t.me/clipzov" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     <a href="https://vk.com/sahland" target="_blank">
