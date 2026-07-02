@@ -7,27 +7,23 @@
 
   <br/>
 
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A277FF&center=true&vCenter=true&width=620&lines=Middle+Unity+Developer;Game+Tools%2C+Shaders+%26+Architecture;Open-source+author+on+pub.dev" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FE428E&center=true&vCenter=true&width=620&lines=Middle+Unity+Developer;Game+Tools%2C+Shaders+%26+Architecture;Open-source+author+on+pub.dev" alt="Typing SVG"/>
 
   <div id="badges" style="margin-top: 10px;">
     <a href="https://t.me/SaHlands" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     <a href="https://vk.com/sahland" target="_blank">
-      <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+      <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
     </a>
     <a href="https://pub.dev/publishers/sahland.tech/packages" target="_blank">
-      <img src="https://img.shields.io/badge/pub.dev-sahland.tech-40C4FF?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev Badge"/>
+      <img src="https://img.shields.io/badge/pub.dev-sahland.tech-40C4FF?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/>
     </a>
   </div>
 
   <br/>
 
-  <a href="https://github.com/sahland" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=sahland&style=flat-square&color=A277FF" alt="Profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sahland&style=flat-square&color=FE428E" alt="Profile views"/>
 </div>
 
 ---
@@ -53,14 +49,17 @@ Hi! I'm a **Middle Unity Developer** from Russia 🇷🇺 — and an open-source
 
 <p>
   <a href="https://pub.dev/packages/attest_flutter"><img src="https://img.shields.io/pub/v/attest_flutter?style=flat-square&logo=dart&color=40C4FF&label=pub" alt="pub version"/></a>
-  <a href="https://pub.dev/packages/attest_flutter/score"><img src="https://img.shields.io/pub/points/attest_flutter?style=flat-square&color=A277FF" alt="pub points"/></a>
-  <a href="https://pub.dev/packages/attest_flutter/score"><img src="https://img.shields.io/pub/likes/attest_flutter?style=flat-square&color=A277FF" alt="likes"/></a>
+  <a href="https://pub.dev/packages/attest_flutter/score"><img src="https://img.shields.io/pub/points/attest_flutter?style=flat-square&color=FE428E&label=pub%20points" alt="pub points"/></a>
+  <a href="https://pub.dev/packages/attest_flutter/score"><img src="https://img.shields.io/pub/likes/attest_flutter?style=flat-square&color=FE428E&label=likes" alt="likes"/></a>
   <img src="https://img.shields.io/badge/license-BSD--3-blue?style=flat-square" alt="license"/>
 </p>
 
-<a href="https://github.com/sahland/attest" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahland&repo=attest&theme=tokyonight&hide_border=true" alt="attest repo"/>
-</a>
+<p>
+  <a href="https://github.com/sahland/attest"><img src="https://img.shields.io/github/stars/sahland/attest?style=flat-square&logo=github&color=FE428E" alt="stars"/></a>
+  <a href="https://github.com/sahland/attest/network/members"><img src="https://img.shields.io/github/forks/sahland/attest?style=flat-square&logo=github&color=FE428E" alt="forks"/></a>
+  <a href="https://github.com/sahland/attest/commits"><img src="https://img.shields.io/github/last-commit/sahland/attest?style=flat-square&color=A277FF" alt="last commit"/></a>
+  <a href="https://github.com/sahland/attest"><img src="https://img.shields.io/badge/repo-sahland%2Fattest-A277FF?style=flat-square&logo=github" alt="repo"/></a>
+</p>
 
 ---
 
@@ -90,20 +89,17 @@ Hi! I'm a **Middle Unity Developer** from Russia 🇷🇺 — and an open-source
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahland&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahland&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahland&theme=radical" alt="overview"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sahland&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahland&theme=radical" alt="stats"/>
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahland&theme=radical" alt="languages"/>
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahland&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahland&theme=radical&utcOffset=3" alt="productive time"/>
+  <img height="185" src="https://streak-stats.demolab.com?user=sahland&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
 </div>
 
 ---
