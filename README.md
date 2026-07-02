@@ -13,9 +13,6 @@
     <a href="https://t.me/clipzov" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="https://vk.com/sahland" target="_blank">
-      <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
-    </a>
     <a href="https://pub.dev/publishers/sahland.tech/packages" target="_blank">
       <img src="https://img.shields.io/badge/pub.dev-sahland.tech-40C4FF?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/>
     </a>
